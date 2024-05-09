@@ -1,4 +1,5 @@
 # ZWinformsCoreAppCallsMsgraph
+## YouTube video link: https://youtu.be/P90_73tYPtI
 ## Tutorial: Winforms app (.NET 8 Core) using Entra groups for authorization
 This tutorial also includes a GraphApiWrapper class which uses GraphServiceClient.
 
